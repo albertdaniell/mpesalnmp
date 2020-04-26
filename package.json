@@ -11,5 +11,16 @@
     "test": "lipaNaMpesa"
   },
   "author": "Albert Daniel",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albertdaniell/mpesalnmp.git"
+  },
+  "keywords": [
+    "lnmpmpesa"
+  ],
+  "bugs": {
+    "url": "https://github.com/albertdaniell/mpesalnmp/issues"
+  },
+  "homepage": "https://github.com/albertdaniell/mpesalnmp#readme"
 }

@@ -124,8 +124,6 @@ console.log(err)
 }
 
 //LNMPOnline(importantKeys);
-module.exports={
-  LNMPOnline
- 
-}
+module.exports.LNMPOnline=LNMPOnline;
+
 
