@@ -9,10 +9,11 @@ This is a Lipa Na Mpesa Api Integration Module
 `yarn add mpesalnmp`
 
 Then...
+# Usage
+```javascript
 
-```
 
-let {LNMPOnline} =require('mpesalnmp')
+import {LNMPOnline} from 'mpesalnmp'
 
 let importantKeys=
     {
