@@ -2,7 +2,7 @@
   "dependencies": {
     "nodejs-base64-encode": "^1.1.0"
   },
-  "name": "mpesalnmp",
+  "name": "mpesalnmp1",
   "version": "1.0.0",
   "description": "This is a Lipa na Mpesa API Module",
   "main": "constants.js",

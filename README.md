@@ -12,7 +12,7 @@ Then...
 
 ```
 
-import {LNMPOnline} from 'mpesalnmp'
+let {LNMPOnline} =require('mpesalnmp')
 
 let importantKeys=
     {
