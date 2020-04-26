@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "nodejs-base64-encode": "^1.1.0"
+  },
+  "name": "mpesalnmp",
+  "version": "1.0.0",
+  "description": "This is a Lipa na Mpesa API Module",
+  "main": "constants.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "lipaNaMpesa"
+  },
+  "author": "Albert Daniel",
+  "license": "ISC"
+}
